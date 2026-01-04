@@ -1,5 +1,3 @@
-# I Designed an Enterprise CMS With AI — Without Letting AI Design It for Me
-
 I am a software architect.
 
 My job doesn’t start with code.  
