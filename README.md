@@ -60,7 +60,6 @@ I used AI to:
 - Generate RBAC enforcement layers  
 - Implement policy evaluation logic  
 - Build a public read-only gateway optimized for caching and SEO  
-- Handle Vietnamese Unicode content and ASCII-safe slugs  
 - Produce C4 architecture diagrams  
 - Draft ISO 27001 / SOC 2 security checklists  
 
